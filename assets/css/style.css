@@ -59,6 +59,8 @@ p {
     background-position: center;
 }
 /* Hero Style End */
+
+/* part of "content" section */ 
 .float-left {
     float: left;
     margin-right: 25px;
@@ -74,7 +76,9 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+/*  part of "content" section end*/ 
 
+/*  benefits or "aside" section */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -133,7 +137,9 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/*end benefits or "aside" section */
 
+/*  part of "content" section */ 
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -187,6 +193,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/*  part of "content" section end*/ 
+
 /* apply styles to <footer> */
 footer {
     padding: 30px;
