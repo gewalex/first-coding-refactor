@@ -1,2 +1,2 @@
-# first-coding-refactor
-This is my first coding refactor challenge
+# First-Coding-Refactor
+This repository will hold the content of my first coding refactor challenge.
