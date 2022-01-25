@@ -18,3 +18,4 @@ Git as a Version Control System helps us maintain constant contact between the l
 
 From now on, I can realize that  HTML, CSS, and Git  are parts of other pillars that lay down a solid foundation for us to begin this journey as full stack web developers. Let’s code and keep on coding!
 
+![](assets./brand-awareness.png)
